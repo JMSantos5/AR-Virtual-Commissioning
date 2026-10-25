@@ -29,7 +29,7 @@ a framework that allowed me to create a Java application to program the logic of
 I then used a WebSocket protocol to allow communication between the Java and the Unity applications, 
 which allowed me to Virtually Commission the real conveyor (test its control code by simulating it) and see how it would operate in the real world through my phone's screen.
 
-Node-RED and integration:
+Raspberry Pi, Node-RED and integration:
 
 The final step was testing the virtual module's code by making it part of the real Modular Production System. 
 I programmed the real conveyors with Node-RED using a Revolution Pi, a compact control system powered by a Raspberry Pi microprocessor, 
