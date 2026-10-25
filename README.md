@@ -15,13 +15,13 @@ This concept would allow someone to test the controller code of a module and see
 In the context of the dissertation, I developed a prototype by using a small-scale Modular Production System composed of 2 Fischertechnik’s 24 V Conveyor Belts (https://www.fischertechnik.biz/conveyor-belt-24-1).
 The solution allowed me to simulate the addition of a new conveyor to this system, and can be divided into 3 main parts.
 
-Unity:
+Unity/C#:
 
 I made a Digital Twin of the conveyors by constructing a 3D model of them using Blender, and then importing it into Unity.
 
 Using Unity, I developed a C# Augmented Reality application that allowed me to see the Virtual Conveyor wherever I put a QR code, operating as if it were a real conveyor.
 
-Java:
+Java/JADE:
 
 I developed the Modular Production System's controller code using JADE (Java Application DEvelopment Framework), 
 a framework that allowed me to create a Java application to program the logic of the system using a Multi-Agent System approach. 
@@ -29,7 +29,7 @@ a framework that allowed me to create a Java application to program the logic of
 I then used a WebSocket protocol to allow communication between the Java and the Unity applications, 
 which allowed me to Virtually Commission the real conveyor (test its control code by simulating it) and see how it would operate in the real world through my phone's screen.
 
-Raspberry Pi, Node-RED and integration:
+Raspberry Pi/Node-RED and integration:
 
 The final step was testing the virtual module's code by making it part of the real Modular Production System. 
 I programmed the real conveyors with Node-RED using a Revolution Pi, a compact control system powered by a Raspberry Pi microprocessor, 
