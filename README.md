@@ -41,8 +41,10 @@ Video link to check the prototype in operation: https://drive.google.com/file/d/
 
 ---SPECIAL THANKS---
 
-I can't publish this project without leaving a special thanks to my dissertation Advisor, Professor and Researcher André Dionísio Bettencourt da Silva Parreira Rocha,
-and to the institution where I developed it, the NOVA School of Science and Technology from Universidade NOVA de Lisboa!
+I can't publish this project without leaving a special thanks to my dissertation Advisor,
+Professor and Researcher André Dionísio Bettencourt da Silva Parreira Rocha (https://www.linkedin.com/in/andr%C3%A9-dionisio-rocha-93996265/),
+and to the institution where I developed it, the NOVA School of Science and Technology (https://www.linkedin.com/school/nova_fct/) 
+from Universidade NOVA de Lisboa (https://www.linkedin.com/school/universidade-nova-de-lisboa/)!
 
 
 
