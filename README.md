@@ -41,7 +41,7 @@ Video link to check the prototype in operation: https://drive.google.com/file/d/
 
 ---SPECIAL THANKS---
 
-I publish this project without leaving a special thanks to my dissertation Advisor, Professor and Researcher André Dionísio Bettencourt da Silva Parreira Rocha,
+I can't publish this project without leaving a special thanks to my dissertation Advisor, Professor and Researcher André Dionísio Bettencourt da Silva Parreira Rocha,
 and to the institution where I developed it, the NOVA School of Science and Technology from Universidade NOVA de Lisboa!
 
 
